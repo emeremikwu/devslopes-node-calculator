@@ -1,0 +1,22 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "devslopes project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeremikwu/devslopes-node-calculator.git"
+  },
+  "author": "emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeremikwu/devslopes-node-calculator/issues"
+  },
+  "homepage": "https://github.com/emeremikwu/devslopes-node-calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
